@@ -1,1 +1,1 @@
-ola, sou um conflito
+olá, sou um conflito
